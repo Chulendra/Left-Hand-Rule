@@ -5,6 +5,7 @@ Arduino code for Line Following Robot Performing Left Hand Rule Algorithm
 - QTR-8A Reflectance Sensor Array (https://www.pololu.com/product/960)
 - Encoder Gear Motor x 2 (https://www.pololu.com/product/4845)
 - Motor Driver (https://www.pololu.com/product/2507)
+- Pololu 1/2″ Plastic Ball Caster (https://www.pololu.com/product/952)
 - Wheel x 2
 - Arduino Mega
 - Buzzer
